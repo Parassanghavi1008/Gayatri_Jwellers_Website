@@ -88,3 +88,24 @@
 ```
 
 4. Open your browser and visit:
+
+5. http://localhost:5173
+
+```
+   gayathri-jewellers/
+
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── package.json
+├── vite.config.ts
+└── tsconfig.json
+```
+🌐 Live Demo
+
+🔗 Coming soon — will be deployed on Vercel
