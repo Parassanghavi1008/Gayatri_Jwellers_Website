@@ -18,7 +18,7 @@
 ## 🖼️ Website Preview
 
 ### 🏠 Hero Section
-![Hero Section](https://github.com/Parassanghavi1008/Gayatri_Jwellers_Website/blob/main/screenshots/hero.png?raw=true)
+![Hero Section](<img width="1434" height="694" alt="Screenshot 2026-04-30 at 10 11 31 AM" src="https://github.com/user-attachments/assets/15205dcc-bf89-4721-a3de-1dc168a07e30" />)
 
 ### 💎 Why Choose Gayathri
 ![Why Choose Gayathri](https://github.com/Parassanghavi1008/Gayatri_Jwellers_Website/blob/main/screenshots/features.png?raw=true)
