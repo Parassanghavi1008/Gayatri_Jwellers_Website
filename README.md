@@ -18,13 +18,13 @@
 ## 🖼️ Website Preview
 
 ### 🏠 Hero Section
-![Hero Section](<img width="1434" height="694" alt="Screenshot 2026-04-30 at 10 11 31 AM" src="https://github.com/user-attachments/assets/15205dcc-bf89-4721-a3de-1dc168a07e30" />)
+![Hero Section](https://github.com/user-attachments/assets/15205dcc-bf89-4721-a3de-1dc168a07e30)
 
 ### 💎 Why Choose Gayathri
-![Why Choose Gayathri](https://github.com/Parassanghavi1008/Gayatri_Jwellers_Website/blob/main/screenshots/features.png?raw=true)
+![Why Choose Gayathri](https://github.com/user-attachments/assets/7ca28efa-57ca-4509-9347-ff7a735dc4ee)
 
 ### 👰 Heritage Bridal Collection
-![Heritage Bridal Collection](https://github.com/Parassanghavi1008/Gayatri_Jwellers_Website/blob/main/screenshots/collection.png?raw=true)
+![Heritage Bridal Collection](https://github.com/user-attachments/assets/9df3ef13-3f76-445c-b8d6-2274eb27c31b)
 
 ---
 
