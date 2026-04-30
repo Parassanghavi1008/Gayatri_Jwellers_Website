@@ -1,0 +1,48 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Montserrat", sans-serif;
+  
+  --color-gold: #D4AF37;
+  --color-gold-light: #F9E2AF;
+  --color-luxury-cream: #f5f2ed;
+  --color-luxury-charcoal: #1A1A1A;
+}
+
+@layer base {
+  body {
+    @apply bg-luxury-cream text-luxury-charcoal font-sans antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@utility luxury-gradient {
+  background: linear-gradient(135deg, #D4AF37 0%, #F9E2AF 50%, #D4AF37 100%);
+}
+
+@utility charcoal-gradient {
+  background: linear-gradient(180deg, #1A1A1A 0%, #2A2A2A 100%);
+}
+
+@utility text-gold-gradient {
+  @apply bg-clip-text text-transparent inline-block;
+  background-image: linear-gradient(135deg, #D4AF37 0%, #F9E2AF 50%, #D4AF37 100%);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-luxury-cream;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gold/50 rounded-full hover:bg-gold;
+}
